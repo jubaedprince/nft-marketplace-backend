@@ -11,7 +11,9 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
+    "ipfs-core": "^0.14.3",
+    "ipfs-http-client": "^56.0.3",
+    "jade": "^0.31.2",
     "morgan": "~1.9.1"
   },
   "devDependencies": {
